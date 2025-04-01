@@ -1,2 +1,2 @@
-# Projet-de-mini-r-seaux
+# Projet de mini réseaux
 Création d'un mini-réseau
