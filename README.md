@@ -9,4 +9,5 @@ Le but de ce projet était de créer un mini-réseau, avec le matériel a notre 
 
 Durant ce projet on a eu quelques que problème avec le matériel, ils sont tous expliquer dans le dossier Diaporama ou dans le compte rendu. 
 
-### GitHub des membres du groupes 
+### 🔗 GitHub des membres du groupes 
+[Ilan Heas]([https://github.com/seven-valley/formation-sql-les-fondamentaux](https://github.com/MooChep))
