@@ -12,4 +12,8 @@ Durant ce projet on a eu quelques que problème avec le matériel, ils sont tous
 ### 🔗 GitHub des membres du groupes 
 [Ilan HEAS](https://github.com/MooChep)
 
-[Nino CAILLAUD](https://github.com/Deezay10)
+[Nino CAILLAUD](https://github.com/Deezay10)  
+
+[Lucas MOLENDI](https://github.com/LucasMolendi)
+
+[Vladimir VITROU](https://github.com/Vladimir-clic)
