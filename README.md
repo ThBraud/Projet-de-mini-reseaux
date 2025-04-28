@@ -10,10 +10,10 @@ Le but de ce projet était de créer un mini-réseau, avec le matériel a notre 
 Durant ce projet on a eu quelques problèmes avec le matériel, ils sont tous expliqués dans le dossier Diaporama ou dans le compte rendu. 
 
 ### 🔗 GitHub des membres du groupes 
-[Ilan HEAS](https://github.com/MooChep)
+:man: [Ilan HEAS](https://github.com/MooChep)
 
-[Nino CAILLAUD](https://github.com/Deezay10)  
+:man: [Nino CAILLAUD](https://github.com/Deezay10)  
 
-[Lucas MOLENDI](https://github.com/LucasMolendi)
+:man: [Lucas MOLENDI](https://github.com/LucasMolendi)
 
-[Vladimir VITROU](https://github.com/Vladimir-clic)
+:man: [Vladimir VITROU](https://github.com/Vladimir-clic)
