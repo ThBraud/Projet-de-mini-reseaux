@@ -7,7 +7,7 @@
 
 Le but de ce projet était de créer un mini-réseau, avec le matériel a notre dispostion  
 
-Durant ce projet on a eu quelques que problème avec le matériel, ils sont tous expliquer dans le dossier Diaporama ou dans le compte rendu. 
+Durant ce projet on a eu quelques problèmes avec le matériel, ils sont tous expliqués dans le dossier Diaporama ou dans le compte rendu. 
 
 ### 🔗 GitHub des membres du groupes 
 [Ilan HEAS](https://github.com/MooChep)
